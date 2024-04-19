@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Peter Boni</title>
+      <link>https://www.peterboni.net</link>
+      <description>Last 10 notes on Peter Boni</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome</title>
+    <link>https://www.peterboni.net/</link>
+    <guid>https://www.peterboni.net/</guid>
+    <description> Trying to not take myself too seriously. Read the Blog. A few notes on Wealth.</description>
+    <pubDate>Fri, 19 Apr 2024 12:53:53 GMT</pubDate>
+  </item><item>
+    <title>Books</title>
+    <link>https://www.peterboni.net/Wealth/Books</link>
+    <guid>https://www.peterboni.net/Wealth/Books</guid>
+    <description>Books pack the biggest bang for your buck containing massive knowledge in a small package. Catapult yourself on your journey to sustainable wealth and financial independence.</description>
+    <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Semper FI</title>
+    <link>https://www.peterboni.net/Wealth/Semper-FI</link>
+    <guid>https://www.peterboni.net/Wealth/Semper-FI</guid>
+    <description>There are 3 rules for building sustainable wealth and being financially independent: Earn money. Spend less than you earn. Invest the difference. Break the rules.</description>
+    <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Day One 2 Obsidian</title>
+    <link>https://www.peterboni.net/Blog/Day-One-2-Obsidian</link>
+    <guid>https://www.peterboni.net/Blog/Day-One-2-Obsidian</guid>
+    <description>📖 💎 Convert your Day One journal to an Obsidian vault folder 🙌 I’ve long used Day One for journaling - dayoneapp.com/ Recently I’ve become obsessed with Obsidian - obsidian.md/ ...</description>
+    <pubDate>Wed, 10 Apr 2024 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Jarvis API</title>
+    <link>https://www.peterboni.net/Blog/Jarvis-API</link>
+    <guid>https://www.peterboni.net/Blog/Jarvis-API</guid>
+    <description>Happy New Year! It’s 2023! 🎉 I created an AWS serverless API that I called “Jarvis” over the Xmas break in 2021 to learn a few new things - AWS CDK is awesome! I have Apple Home Automations ...</description>
+    <pubDate>Sun, 08 Jan 2023 16:38:00 GMT</pubDate>
+  </item><item>
+    <title>Roblox</title>
+    <link>https://www.peterboni.net/Blog/Roblox</link>
+    <guid>https://www.peterboni.net/Blog/Roblox</guid>
+    <description>Want to teach your kids the basics of software development? Roblox! In under 2 hours I helped my daughter create an “obby” (obstacle) game in Roblox with disappearing objects by writing ...</description>
+    <pubDate>Tue, 28 Dec 2021 14:37:00 GMT</pubDate>
+  </item><item>
+    <title>App to API Connection Trust</title>
+    <link>https://www.peterboni.net/Blog/App-to-API-Connection-Trust</link>
+    <guid>https://www.peterboni.net/Blog/App-to-API-Connection-Trust</guid>
+    <description>Update August 08, 2020 With the advent of iOS 14.0 there is a better way to do this now, check out App Attest. Why I’ve been sporadically building a mobile app as a side project.</description>
+    <pubDate>Sun, 01 Sep 2019 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>People over resources</title>
+    <link>https://www.peterboni.net/Blog/People-over-resources</link>
+    <guid>https://www.peterboni.net/Blog/People-over-resources</guid>
+    <description>Resources I’ve had a problem with a few words the IT industry chooses to use for a while now. Legacy is one of them. The other one is resource. This is that post.</description>
+    <pubDate>Mon, 12 Aug 2019 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>Legacy</title>
+    <link>https://www.peterboni.net/Blog/Legacy</link>
+    <guid>https://www.peterboni.net/Blog/Legacy</guid>
+    <description>Sam Newman started it again. Not the controversial one. The one who wrote the book on Microservices, literally. ”I think I first heard the term ‘heritage’ from @peterboni, but I could be totally wrong…”, Sam Newman - Tweet I’ve had a problem with a few words the IT industry chooses to use for a while now.</description>
+    <pubDate>Fri, 15 Dec 2017 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>Flow</title>
+    <link>https://www.peterboni.net/Blog/Flow</link>
+    <guid>https://www.peterboni.net/Blog/Flow</guid>
+    <description>Theory I’ve just started one of my 2016 challenges, which is to read one interesting book a month. An achievable goal for a slow reader with a busy life.</description>
+    <pubDate>Sat, 06 Feb 2016 07:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
