@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Peter Boni</title>
+<meta name="description" content="Peter Boni. Technology leadership: people first, process second, technology third." />
+<meta name="theme-color" content="#08090a" />
+<meta property="og:title" content="Peter Boni" />
+<meta property="og:description" content="Technology leadership: people first, process second, technology third." />
+<meta property="og:image" content="assets/peter-boni.jpg" />
+<meta property="og:type" content="website" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<script>
+  try {
+    var t = localStorage.getItem('pb-theme');
+    document.documentElement.dataset.theme = t === 'light' ? 'light' : 'dark';
+  } catch (e) {}
+</script>
+</head>
+<body>
+<main class="stage">
+  <div class="glow glow-top"></div>
+  <div class="glow glow-corner"></div>
+
+  <nav class="top-actions" aria-label="Quick links and display settings">
+    <button type="button" class="icon-button theme-toggle" aria-label="Toggle light or dark mode" title="Toggle light or dark mode">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="4.4"></circle>
+        <path d="M12 2.6v2.2M12 19.2v2.2M2.6 12h2.2M19.2 12h2.2M5.4 5.4l1.6 1.6M17 17l1.6 1.6M18.6 5.4L17 7M7 17l-1.6 1.6"></path>
+      </svg>
+    </button>
+    <a class="icon-button linkedin-link" href="https://www.linkedin.com/in/peterboni/" target="_blank" rel="noopener noreferrer" aria-label="View Peter Boni on LinkedIn" title="LinkedIn profile">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM2.4 21.5h5.16V9.4H2.4v12.1zM10.2 9.4h4.95v1.66h.07c.69-1.2 2.37-2.06 4.05-2.06 3.5 0 4.33 2.1 4.33 5.4v7.1h-5.16v-6.3c0-1.5-.27-2.9-2-2.9-1.7 0-2.08 1.28-2.08 2.82v6.38H10.2V9.4z"></path></svg>
+    </a>
+  </nav>
+
+  <div class="layout">
+    <div class="portrait">
+      <img src="assets/peter-boni.webp" srcset="assets/peter-boni.webp 760w, assets/peter-boni-2x.webp 1520w" sizes="(max-width: 700px) 60vw, 300px" alt="Peter Boni" width="760" height="1013" />
+    </div>
+
+    <div class="intro">
+      <div class="eyebrow"><span class="dot"></span><span>Technology</span></div>
+      <h1>Peter Boni</h1>
+      <div class="blurb">
+        <p>I&rsquo;ve believed since I was young that people creating and using software would change the world, and it&rsquo;s been my life&rsquo;s work ever since.</p>
+        <p>People first, process second, technology third. I&rsquo;m passionate about building high-performing teams, guiding with purpose and guardrails, and delivering with relentless focus.</p>
+        <p>I bring deep experience in software development, agile transformation, and software architecture, with significant domain knowledge in financial services. I love leading teams to deliver meaningful outcomes, solve complex challenges, and never stop improving.</p>
+        <p class="note">Placeholder page. More here in time.</p>
+      </div>
+      <div class="rule"></div>
+      <a class="cta" href="https://www.linkedin.com/in/peterboni/" target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM2.4 21.5h5.16V9.4H2.4v12.1zM10.2 9.4h4.95v1.66h.07c.69-1.2 2.37-2.06 4.05-2.06 3.5 0 4.33 2.1 4.33 5.4v7.1h-5.16v-6.3c0-1.5-.27-2.9-2-2.9-1.7 0-2.08 1.28-2.08 2.82v6.38H10.2V9.4z"></path></svg>
+        <span>View LinkedIn Profile</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="footer">Peter Boni &copy; 2026</div>
+</main>
+<script>
+  document.querySelector('.theme-toggle').addEventListener('click', function () {
+    var root = document.documentElement;
+    var next = root.dataset.theme === 'light' ? 'dark' : 'light';
+    root.dataset.theme = next;
+    try { localStorage.setItem('pb-theme', next); } catch (e) {}
+  });
+</script>
+</body>
+</html>
